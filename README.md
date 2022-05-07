@@ -15,6 +15,6 @@
 
 <!-- stats -->
 <div align=middle>
-<img align='' src="https://github-readme-stats.vercel.app/api?username=sandor2889&count_private=true&show_icons=true&theme=radical", width = 400>
-<img align='' src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandor2889&langs_count=8&layout=compact&theme=dark">
+<img align='' src="https://github-readme-stats.vercel.app/api?username=sandor2889&count_private=true&show_icons=true&theme=radical", width = 400, height = 150>
+<img align='' src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandor2889&langs_count=8&layout=compact&theme=dark", width = 400, height = 150>
 </div>
