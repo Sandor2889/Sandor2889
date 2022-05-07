@@ -14,5 +14,9 @@
 ***
 
 <!-- stats -->
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=sandor2889&count_private=true&show_icons=true&theme=radical">
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandor2889&langs_count=8&layout=compact&theme=dark">
+<table>
+  <tr>
+    <td><img alt="" src="https://github-readme-stats.vercel.app/api?username=sandor2889&count_private=true&show_icons=true&theme=radical" /></td>
+    <td><img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandor2889&langs_count=8&layout=compact&theme=dark" /></td>
+  <tr>
+</table>
