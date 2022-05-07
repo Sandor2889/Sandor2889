@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
 </div>
 
+***
+
 <!-- stats -->
-|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandor2889&count_private=true&show_icons=true&theme=radical)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandor2889&langs_count=8&layout=compact&theme=dark)|
-|--|--|
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=sandor2889&count_private=true&show_icons=true&theme=radical">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandor2889&langs_count=8&layout=compact&theme=dark">
