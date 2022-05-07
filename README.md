@@ -2,10 +2,13 @@
 
 <div align="center">
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sandor2889)](https://solved.ac/sandor2889)
 
-## 📚 Tech 
-<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=white"> 
+
+  
+|📚 Tech <br> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"> |[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sandor2889)](https://solved.ac/sandor2889)|
+|--|--|
+
+
 
 
 
